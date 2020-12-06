@@ -55,3 +55,11 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Adds a flexible user authentication solution
 gem 'devise'
+
+# Adds Bootstrap and Jquery
+gem 'bootstrap', '~> 5.0.0.alpha3'
+gem 'jquery-rails'
+
+
+# Adds SimpleForm
+gem 'simple_form'
