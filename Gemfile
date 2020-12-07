@@ -63,3 +63,5 @@ gem 'jquery-rails'
 
 # Adds SimpleForm
 gem 'simple_form'
+
+gem 'redis'
